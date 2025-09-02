@@ -14,6 +14,7 @@ class Geeks
         System.out.println(s);
     }
 }
+// output:sachin
 //Java program to assign the reference explicitly in String using String.concat() method
 
 import java.io.*;
@@ -27,3 +28,4 @@ class Geeks
         System.out.println(name);
     }
 }
+//output: sachinTendulkar
